@@ -13,5 +13,5 @@ Demo Image:
 5. Run app localy with: ```python manage.py runserver```
 
 ## Credit
-This project is developped by Nazmul Hossain Ananto by the help of Redian Marku.
-All rights reserved 2020
+This project is developed by Nazmul Hossain Ananto by the help of Redian Marku.
+All rights reserved 2020.
